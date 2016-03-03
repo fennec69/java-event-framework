@@ -1,4 +1,4 @@
-package com.fennec.service;
+package com.sianav.service.event;
 
 import java.util.ArrayList;
 import java.util.HashMap;
