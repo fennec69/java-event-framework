@@ -4,7 +4,7 @@
 
     <groupId>com.sianav</groupId>
     <artifactId>event_framework</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Java Event Framework</name>
     <description>A realy simple java framework for event programming</description>
@@ -39,7 +39,7 @@
         <url>https://github.com/fennec69/java-event-framework</url>
         <connection>scm:git://github.com/fennec69/java-event-framework</connection>
         <developerConnection>scm:git:ssh://git@github.com/fennec69/java-event-framework</developerConnection>
-        <tag>0.0.1</tag>
+        <tag>v0.0.1</tag>
     </scm>
 
     <build>
