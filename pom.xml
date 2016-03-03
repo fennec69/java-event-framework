@@ -39,7 +39,7 @@
         <url>https://github.com/fennec69/java-event-framework</url>
         <connection>scm:git://github.com/fennec69/java-event-framework</connection>
         <developerConnection>scm:git:ssh://git@github.com/fennec69/java-event-framework</developerConnection>
-        <tag>v0.0.1</tag>
+        <tag>0.0.1</tag>
     </scm>
 
     <build>
