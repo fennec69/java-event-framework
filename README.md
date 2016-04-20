@@ -110,7 +110,7 @@ public class LightFilter implements Filter<LightStateChangeEvent> {
     }
 }
 ```
-With filters, you could also for example receive notification only when a specific light (or a list of light..) is turned on.
+With filters, you could also for example receive notification only when a specific light (or a list of lights..) is turned on.
 
 ####LightActivity class
 ```java
