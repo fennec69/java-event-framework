@@ -21,7 +21,7 @@ compile 'com.sianav:event_framework:0.0.1'
 ```
 
 #How to use
-Let's take an example of an Android app for lights control. The purpose is to get notified when an app with a certain id
+Let's take an example of an Android app for lights control. The purpose is to get notified when an light with a certain id
 is turned on or off:
 
 ####The light entity class:
